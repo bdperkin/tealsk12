@@ -1,0 +1,15 @@
+Script started on 2018-01-12 15:21:17-0500
+]0;bperkins@bperkins-ws:~/git/tealsk12/units/1_unit/02_lesson/lab[bperkins@bperkins-ws lab]$ python3
+Python 3.6.3 (default, Oct  9 2017, 12:07:10) 
+[GCC 7.2.1 20170915 (Red Hat 7.2.1-2)] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 'a' * 'b'   
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: can't multiply sequence by non-int of type 'str'
+>>> 'a' * 2
+'aa'
+>>> 
+]0;bperkins@bperkins-ws:~/git/tealsk12/units/1_unit/02_lesson/lab[bperkins@bperkins-ws lab]$ exit
+
+Script done on 2018-01-12 15:21:37-0500
