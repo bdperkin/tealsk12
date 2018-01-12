@@ -1,0 +1,51 @@
+Script started on 2018-01-12 15:26:15-0500
+]0;bperkins@bperkins-ws:~/git/tealsk12/units/1_unit/02_lesson/lab[bperkins@bperkins-ws lab]$ python3
+Python 3.6.3 (default, Oct  9 2017, 12:07:10) 
+[GCC 7.2.1 20170915 (Red Hat 7.2.1-2)] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 10 * 2
+20
+>>> .5 * 2
+1.0
+>>> 10/2
+5.0
+>>> 10%2
+0
+>>> 2 ** 3
+8
+>>> (2+5)*3
+21
+>>> 2 + 5 * 3
+17
+>>> 'ab' + '12' + '3'   
+'ab123'
+>>> x
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'x' is not defined
+>>> "ab" + "cd" 
+'abcd'
+>>> 'abc' * 2
+'abcabc'
+>>> '1'*2 + '2' * 3
+'11222'
+>>> 1 * 2 + '3' * 2
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+>>> 'A' ** 2
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsupported operand type(s) for ** or pow(): 'str' and 'int'
+>>> 'bc' % 2
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: not all arguments converted during string formatting
+>>> 'bc' / 2
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsupported operand type(s) for /: 'str' and 'int'
+>>> 
+]0;bperkins@bperkins-ws:~/git/tealsk12/units/1_unit/02_lesson/lab[bperkins@bperkins-ws lab]$ exit
+
+Script done on 2018-01-12 15:28:48-0500
